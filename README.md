@@ -1,7 +1,8 @@
-### Hi there 👋
+<p align="center">
+<img src="images/hello-world-dark.svg" width=68% /> <br> <br>
+<img src="color-blocks.jpg" width=68% /> <br> <br>
 
 <!--
-**jazz-delaney/jazz-delaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
