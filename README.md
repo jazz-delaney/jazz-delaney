@@ -1,6 +1,6 @@
 <p align="center">
 <img src="images/hello-world-dark.svg" width=68% /> <br> <br>
-<img src="color-blocks.jpg" width=68% /> <br> <br>
+<img src="images/color-blocks.jpg" width=68% /> <br> <br>
 
 <!--
 
